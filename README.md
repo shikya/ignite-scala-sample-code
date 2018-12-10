@@ -18,7 +18,23 @@ Repository for sample codes in ignite.
 
 1. Ignite as database over cache
 
+## General Schema for Example
 
+-Teacher
+
+--Name
+
+--age
+
+--Student
+
+---Name
+
+---Age
+
+-Ids
+
+-- Id generator
 
 ## TODOs
 
