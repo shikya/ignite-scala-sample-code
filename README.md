@@ -1,8 +1,5 @@
 # Ignite Scala Sample Code
 
-![Scala Logo](https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png "Scala Lang")
-![Ignite Logo](https://ignite.apache.org/images/Ignite_tm_Logo_wht_RGB.svg "Apache Ignite")
-
 Repository for sample codes in ignite.
 
 
