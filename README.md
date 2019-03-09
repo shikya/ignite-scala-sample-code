@@ -6,14 +6,11 @@ Repository for sample codes in ignite.
 ## Examples
 
 1. Ignite Cache without Persistant
-
 1. Ignite Pagination
-
 1. Ignite Cache with Persistant
-
 1. Ignite with Singletone Service Genrator
-
 1. Ignite as database over cache
+
 
 ## General Schema for Example
 
@@ -36,12 +33,17 @@ Repository for sample codes in ignite.
 ## TODOs
 
 - [x] ~~Starter Project.~~
+- [ ] sbt project
 - [ ] Configuration for Ignite.
-- [ ] Example 1
-- [ ] Example 2
-- [ ] Example 3
-- [ ] Example 4
-- [ ] Example 5
+- [ ] Add a simple model
+- [ ] CRUD a simple model
+- [ ] Add a complex model
+- [ ] CRUD a complex model
+- [ ] id generator service
+- [ ] Binary objects
+- [ ] Statefull sets
 - [ ] Windows Runner.
+- [ ] 90+ test coverage
+- [ ] Write over cache
 - [ ] Documentation.
 - [ ] Linux/Mac Runner.
