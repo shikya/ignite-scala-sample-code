@@ -15,6 +15,7 @@ Repository for sample codes in ignite.
 ## General Schema for Example
 
 Teacher(name: String, age: Number)
+
 Student(name: String, age: Number, teacher: Teacher)
 
 
