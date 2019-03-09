@@ -14,21 +14,9 @@ Repository for sample codes in ignite.
 
 ## General Schema for Example
 
--Teacher
+Teacher(name: String, age: Number)
+Student(name: String, age: Number, teacher: Teacher)
 
---Name
-
---age
-
---Student
-
----Name
-
----Age
-
--Ids
-
--- Id generator
 
 ## TODOs
 
