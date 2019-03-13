@@ -22,13 +22,14 @@ Student(name: String, age: Number, teacher: Teacher)
 ## TODOs
 
 - [x] ~~Starter Project.~~
-- [ ] sbt project
-- [ ] Configuration for Ignite.
+- [x] sbt project
+- [x] Configuration for Ignite.
 - [ ] Add a simple model
 - [ ] CRUD a simple model
 - [ ] Add a complex model
 - [ ] CRUD a complex model
 - [ ] id generator service
+- [ ] Add blog style documentation
 - [ ] Binary objects
 - [ ] Statefull sets
 - [ ] Windows Runner.
