@@ -24,8 +24,8 @@ Student(name: String, age: Number, teacher: Teacher)
 - [x] Starter Project.
 - [x] sbt project
 - [x] Configuration for Ignite.
-- [ ] Add a simple model
-- [ ] CRUD a simple model
+- [x] Add a simple model
+- [x] CRUD a simple model
 - [ ] Add a complex model
 - [ ] CRUD a complex model
 - [ ] id generator service
