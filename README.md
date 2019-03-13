@@ -21,7 +21,7 @@ Student(name: String, age: Number, teacher: Teacher)
 
 ## TODOs
 
-- [x] ~~Starter Project.~~
+- [x] Starter Project.
 - [x] sbt project
 - [x] Configuration for Ignite.
 - [ ] Add a simple model
